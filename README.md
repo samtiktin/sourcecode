@@ -1,5 +1,5 @@
-Aseprite Open Source Projects
-=============================
+Aseprite Projects
+=================
 
 This is an umbrella project for Aseprite organization on GitHub.
 It's used mainly to keep track of contributors that have signed
@@ -24,8 +24,10 @@ Table of Content
 List of Projects
 ----------------
 
-* [Aseprite](https://github.com/aseprite/aseprite) &mdash; Open source
-  sprite editor & pixel art tool. It includes several sub-libraries.
+* [Aseprite](https://github.com/aseprite/aseprite) &mdash;
+  Sprite editor & pixel art tool. It includes several sub-libraries.
+* [laf](https://github.com/aseprite/laf) &mdash;
+  Cross-platform library to create applications.
 
 ----
 
