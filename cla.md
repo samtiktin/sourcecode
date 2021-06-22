@@ -1,16 +1,16 @@
-Individual Contributor License Agreement ("Agreement") V2.0
+Individual Contributor License Agreement ("Agreement") V3.0
 ============================================================
 
 Thank you for your interest in Aseprite project being administered by
-David Alfredo Capello ("We" or "Us").
+Igara Studio S.A. ("We" or "Us").
 
 In order to clarify the intellectual property license granted with
 Contributions from any person or entity, We must have a Contributor
 License Agreement ("CLA") on file that has been signed by each
 Contributor, indicating agreement to the license terms below. This
 license is for your protection as a Contributor as well as the
-protection of Us and its users; it does not change your rights to use
-your own Contributions for any other purpose.
+protection of Aseprite and its users; it does not change your rights
+to use your own Contributions for any other purpose.
 
 You accept and agree to the following terms and conditions for Your
 present and future Contributions submitted to Us. Except for the

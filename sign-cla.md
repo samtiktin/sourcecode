@@ -2,7 +2,7 @@ Sign the CLA
 ============
 
 This page is the step-by-step guide to signing our Individual
-Contributor License Agreement V2.0.
+Contributor License Agreement V3.0.
 
 1. First and foremost, read [the current version of the CLA](cla.md).
 
@@ -64,7 +64,7 @@ You can confirm the MD5 checksum of the CLA by running the md5 program over `cla
 
 ```
 md5 cla.md
-MD5 (cla.md) = c8987ef52a6c885ccdd2da195dbceb63
+MD5 (cla.md) = 70c98242da1acddcd04197b6b2a4838d
 ```
 
 If the output is different from above, do not sign the CLA and let us know.
@@ -81,7 +81,7 @@ with the subject "CLA" and the following body:
 
 ```
 I submitted a pull request to indicate agreement to the terms
-of the Individual Contributor License Agreement V2.0.
+of the Individual Contributor License Agreement V3.0.
 
 Signed,
 

@@ -18,7 +18,7 @@ Table of Content
 * [List of Projects](#list-of-projects)
 * [Sign the CLA](sign-cla.md)
 * [Contributors](contributors)
-* [Individual Contributor License Agreement V2.0](cla.md)
+* [Individual Contributor License Agreement V3.0](cla.md)
 
 
 List of Projects
